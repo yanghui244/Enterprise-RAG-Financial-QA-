@@ -1,0 +1,10 @@
+llama-index-core>=0.14.0
+llama-index-embeddings-openai>=0.7.0
+llama-index-llms-openai-like>=0.8.0
+streamlit>=1.49.0
+python-dotenv>=1.0.0
+pymupdf>=1.24.0
+pymupdf4llm>=0.0.17
+
+# 扫描版 PDF 需要 OCR 时安装（体积较大，含模型依赖）
+# mineru>=2.0.0
